@@ -1,0 +1,12 @@
+{
+  "name": "example-project",
+  "version-string": "0.0.1",
+  "license": "MIT",
+  "dependencies": [
+    "opengl",
+    "glfw3",
+    "glm",
+    "glew",
+    "freeglut"
+  ]
+}
